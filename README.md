@@ -1,1 +1,1 @@
-# DITISS_Project
+The project Secure Email Server Deployment with Malware Protection enhances email communication security. It deploys an advanced server with strong encryption and proactive malware detection. By analyzing existing server architectures, it integrates security measures using open-source and commercial tools. The result is a highly secure email server infrastructure that reduces malware risks and improves digital security.
